@@ -4,4 +4,4 @@
 # encode : utf-8
 numberList = list(map(int, input().split()))
 numberList.sort()
-print("{0[0]} {0[1]} {0[2]}".format(numberList))
+print('{0[0]} {0[1]} {0[2]}'.format(numberList))
